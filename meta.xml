@@ -1,0 +1,4 @@
+<resource>
+    <info name="Sri Lanka Time Sync" author="DENUZZ" version="1.0" />
+    <script src="time_sync.lua" type="server" />
+</resource>
